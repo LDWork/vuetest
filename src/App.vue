@@ -5,8 +5,7 @@
       <router-link to="/about">About</router-link>
     </div>
     <router-view/>
-    <h1>sdf;lgs;g</h1>
-  </div>
+45673456743567456745674567  </div>
 </template>
 
 <style lang="scss">
