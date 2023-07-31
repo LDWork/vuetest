@@ -5,7 +5,7 @@
       <router-link to="/about">About</router-link>
     </div>
     <router-view/>
-    <h1>sdf;lgsd;fgkljsdf;g</h1>
+    <h1>sdf;lgs;g</h1>
   </div>
 </template>
 
